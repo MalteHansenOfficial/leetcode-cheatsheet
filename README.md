@@ -10,12 +10,12 @@ Feedback is welcome. Parts of the script are AI-generated (under supervision).
 
 ## 📚 Table of Contents
 
-- [⏱️ Complexity Quick Reference](#complexity-quick-reference)
-- [🧩 The Core Patterns](#the-core-patterns)
-- [🔧 Essential Data Structures](#essential-data-structures)
-- [🍳 Problem-Solving Recipes](#problem-solving-recipes)
-- [🐍 Python Snippets Worth Memorizing](#python-snippets-worth-memorizing)
-- [🗺️ What to Study and In What Order](#what-to-study-and-in-what-order)
+- [⏱️ Complexity Quick Reference](#%EF%B8%8F-complexity-quick-reference)
+- [🧩 The Core Patterns](#-the-core-patterns)
+- [🔧 Essential Data Structures](#-essential-data-structures)
+- [🍳 Problem-Solving Recipes](#-problem-solving-recipes)
+- [🐍 Python Snippets Worth Memorizing](#-python-snippets-worth-memorizing)
+- [🗺️ What to Study and In What Order](#%EF%B8%8F-what-to-study-and-in-what-order)
 
 ---
 
